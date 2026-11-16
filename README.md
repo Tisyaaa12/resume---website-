@@ -3,7 +3,7 @@
 A colourful, multi-page resume site built with semantic HTML5 and CSS.
 IIMB HTML Mid-Term Assessment.
 
-**Live site:** https://YOUR-USERNAME.github.io/YOUR-REPO/
+**Live site:** https://tisyaaa12.github.io/resume---website-/
 
 ## Pages
 - `index.html` – header, photo, about, experience, education, skills, achievements, positions
